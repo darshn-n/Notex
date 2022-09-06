@@ -3,7 +3,6 @@
 A new FlutterFire Crud App to note.
 
 
-## Demo
 
 ![App Screenshot](https://github.com/darshn-n/minesweeper/blob/main/x.gif)
 
