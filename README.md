@@ -1,16 +1,45 @@
-# notex
+# Notex
 
-A new Flutter project.
+A new FlutterFire Crud App to note.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://github.com/darshn-n/minesweeper/blob/main/x.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation 
+
+
+You can clone by copy and pasting below commands in your Terminal.
+
+```bash 
+    git clone https://github.com/darshn-n/notex/
+    cd notex
+    flutter run
+```
+
+
+
+Libraries used in the project
+```yaml
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.21.1
+  cloud_firestore: ^3.4.6
+  date_format: ^2.0.6
+  intl: ^0.17.0
+  google_fonts: ^3.0.1
+```
+
+## Screenshots
+
+<img src="demo2.gif" height="300em" />&nbsp;&nbsp;&nbsp; <img src="demo1.gif" height="300em" /> &nbsp;&nbsp;&nbsp; 
+<img src="ss1.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
+<img src="ss2.jpg" height="300em" />
+
+  
+
+### That's it
+```
+	Voila
+```
